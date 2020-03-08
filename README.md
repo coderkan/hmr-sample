@@ -195,10 +195,7 @@ Without HMR your project will run like this.
 
 ![Without HMR](src/assets/hmr_notenabled.mov)
 
-<img src="src/assets/hmr_notenabled.mov" alt="Smiley face" height="50%" width="50%">
-
-
-As you see below video, when you make a change your project and saved, your project will always recompile and reload. This becomes a boring situation over time.
+> As you see below video, when you make a change your project and saved, your project will always recompile and reload. This becomes a boring situation over time.
 
 
 ### With HMR
@@ -209,9 +206,7 @@ Now with HMR is enabled scenario. Run your app like below.
 
 ![With HMR](src/assets/hmr_enabled.mov)
 
-<img src="src/assets/hmr_enabled.mov" alt="With HMR" height="50%" width="50%">
-
-At this video you see, your project not reloaded every changes and It is faster than before.
+> At this video you see, your project not reloaded every changes and It is faster than before.
 
 
 
